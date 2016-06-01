@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CYSCORP]]></title>
         <description><![CDATA[CYSCORP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cyscorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 00:48:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 00:49:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cyscorp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif"></article>]]></description>
+            <link>https://thegrid.ai/cyscorp/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">9ba5a79f-9959-49b3-ace6-6bcd3c009627</guid>
+            <pubDate>Wed, 01 Jun 2016 00:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>EAS</p>]]></description>
-            <link>undefinedeas/index.html</link>
+            <link>https://thegrid.ai/cyscorp/eas/index.html</link>
             <guid isPermaLink="false">fe82a173-69db-468a-807c-b1c0bc9ea408</guid>
             <pubDate>Wed, 01 Jun 2016 00:48:47 GMT</pubDate>
         </item>
