@@ -1,28 +1,40 @@
-name: CYSCORP
-favicon: null
-layout_spectrum: 0.98004
-typography_spectrum: 0.5717154815793037
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5035842
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#b3c9d7'
     - '#004b6a'
     - '#4982a2'
-  brandStrength: 1
-  lightness: 0.1875
-  saturation: 0.3125
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.4086021
+typography_spectrum: 0.5717154815793037
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: CYSCORP
